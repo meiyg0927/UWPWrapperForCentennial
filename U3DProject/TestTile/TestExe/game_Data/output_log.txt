@@ -1,0 +1,20 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K420 (ID=0xff3)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\TestTile\TestExe\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\TestTile\TestExe\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\TestTile\TestExe\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\TestTile\TestExe\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\TestTile\TestExe\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\TestTile\TestExe\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+Platform assembly: F:\TestTile\TestExe\game_Data\Managed\System.Core.dll (this message is harmless)
